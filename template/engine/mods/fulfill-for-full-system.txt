@@ -116,7 +116,7 @@ master-file-install
 ## ## Locale
 ##
 
-basic-language-pack-install
+#basic-language-pack-install
 basic-locales-supported-generate
 
 
