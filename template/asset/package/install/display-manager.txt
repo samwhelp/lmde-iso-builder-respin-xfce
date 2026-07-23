@@ -26,7 +26,6 @@ lightdm-settings
 
 
 
-
 ##
 ## ## Package / lightdm / greeter / gtk
 ##
@@ -37,6 +36,11 @@ lightdm-gtk-greeter-settings
 
 
 
+##
+## ## Package / lightdm / greeter / slick
+##
+
+#slick-greeter
 
 
 
